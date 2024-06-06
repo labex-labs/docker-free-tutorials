@@ -13,7 +13,7 @@ Docker is a tool that allows you to run applications in containers. Every contai
 |      03 | 📖 Custom Docker Images                          | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/docker-custom-docker-images-8196)                            |
 |      04 | 📖 Mastering Docker Network Basics               | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/docker-mastering-docker-network-basics-8445)                 |
 |      05 | 📖 Docker Local Network                          | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/docker-docker-local-network-16256)                           |
-|      06 | 📖 Managing Data in Containers                   | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/docker-managing-data-in-containers-8106)                     |
+|      06 | 📖 Managing Data in Docker Containers            | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/docker-managing-data-in-docker-containers-8106)              |
 |      07 | 📖 Docker Multi Stage Build                      | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/docker-docker-multi-stage-build-8193)                        |
 |      08 | 📖 Docker Pull Image from Repository             | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/docker-docker-pull-image-from-repository-271485)             |
 |      09 | 📖 Spaceport Container Deployment                | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/docker-spaceport-container-deployment-268715)                |
@@ -74,49 +74,49 @@ Docker is a tool that allows you to run applications in containers. Every contai
 |      64 | 📖 Prune Docker Objects Discovery                | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/docker-prune-docker-objects-discovery-268713)                |
 |      65 | 📖 Docker Remove Unused Docker Objects           | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/docker-docker-remove-unused-docker-objects-271481)           |
 |      66 | 📖 Illustrating Docker Volume Concepts           | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/docker-illustrating-docker-volume-concepts-67494)            |
-|      67 | 📖 Managing Data in Containers                   | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/docker-managing-data-in-containers-148984)                   |
+|      67 | 📖 Managing Container File Systems               | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/docker-managing-container-file-systems-148984)               |
 |      68 | 📖 Adding Value with Custom Docker Images        | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/docker-adding-value-with-custom-docker-images-148983)        |
-|      69 | 📖 Docker Images Deeper Dive                     | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/docker-docker-images-deeper-dive-67460)                      |
+|      69 | 📖 Create Docker Image From Container            | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/docker-create-docker-image-from-container-67460)             |
 |      70 | 📖 Simple Docker Containers                      | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/docker-simple-docker-containers-67162)                       |
 |      71 | 📖 Running Your First Container                  | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/docker-running-your-first-container-148982)                  |
 |      72 | 📖 Docker's .NET Conf                            | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/git-docker-s-net-conf-67462)                                 |
-|      73 | 📖 Deploying a Simple TensorFlow Model           | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-deploying-a-simple-tensorflow-model-298840)            |
+|      73 | 📖 Deploying a Simple TensorFlow Model (Lab)     | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-deploying-a-simple-tensorflow-model-lab-298840)        |
 
 ## More Free Tutorials
 
-- [Linux Free Tutorials](https://github.com/labex-labs/linux-free-tutorials)
-- [Python Free Tutorials](https://github.com/labex-labs/python-free-tutorials)
-- [DevOps Free Tutorials](https://github.com/labex-labs/devops-free-tutorials)
-- [Web Development Free Tutorials](https://github.com/labex-labs/web-development-free-tutorials)
-- [Data Science Free Tutorials](https://github.com/labex-labs/data-science-free-tutorials)
-- [Big Data Free Tutorials](https://github.com/labex-labs/bigdata-free-tutorials)
-- [Cyber Security Free Tutorials](https://github.com/labex-labs/cysec-free-tutorials)
-- [Machine Learning Free Tutorials](https://github.com/labex-labs/ml-free-tutorials)
-- [Docker Free Tutorials](https://github.com/labex-labs/docker-free-tutorials)
-- [Kubernetes Free Tutorials](https://github.com/labex-labs/kubernetes-free-tutorials)
-- [Git Free Tutorials](https://github.com/labex-labs/git-free-tutorials)
-- [Ansible Free Tutorials](https://github.com/labex-labs/ansible-free-tutorials)
-- [Jenkins Free Tutorials](https://github.com/labex-labs/jenkins-free-tutorials)
-- [Shell Free Tutorials](https://github.com/labex-labs/shell-free-tutorials)
-- [Java Free Tutorials](https://github.com/labex-labs/java-free-tutorials)
-- [Hadoop Free Tutorials](https://github.com/labex-labs/hadoop-free-tutorials)
-- [C++ Free Tutorials](https://github.com/labex-labs/cpp-free-tutorials)
-- [C Free Tutorials](https://github.com/labex-labs/c-free-tutorials)
-- [MySQL Free Tutorials](https://github.com/labex-labs/mysql-free-tutorials)
-- [Go Free Tutorials](https://github.com/labex-labs/go-free-tutorials)
-- [Rust Free Tutorials](https://github.com/labex-labs/rust-free-tutorials)
-- [OpenCV Free Tutorials](https://github.com/labex-labs/opencv-free-tutorials)
-- [Django Free Tutorials](https://github.com/labex-labs/django-free-tutorials)
-- [Pandas Free Tutorials](https://github.com/labex-labs/pandas-free-tutorials)
-- [NumPy Free Tutorials](https://github.com/labex-labs/numpy-free-tutorials)
-- [scikit-learn Free Tutorials](https://github.com/labex-labs/sklearn-free-tutorials)
-- [Matplotlib Free Tutorials](https://github.com/labex-labs/matplotlib-free-tutorials)
-- [Algorithm Free Tutorials](https://github.com/labex-labs/algorithm-free-tutorials)
-- [HTML Free Tutorials](https://github.com/labex-labs/html-free-tutorials)
-- [CSS Free Tutorials](https://github.com/labex-labs/css-free-tutorials)
-- [JavaScript Free Tutorials](https://github.com/labex-labs/javascript-free-tutorials)
-- [React Free Tutorials](https://github.com/labex-labs/react-free-tutorials)
-- [jQuery Free Tutorials](https://github.com/labex-labs/jquery-free-tutorials)
+- [Practice Linux Free Tutorials](https://github.com/labex-labs/linux-free-tutorials)
+- [Practice Python Free Tutorials](https://github.com/labex-labs/python-free-tutorials)
+- [Practice DevOps Free Tutorials](https://github.com/labex-labs/devops-free-tutorials)
+- [Practice Web Development Free Tutorials](https://github.com/labex-labs/web-development-free-tutorials)
+- [Practice Data Science Free Tutorials](https://github.com/labex-labs/data-science-free-tutorials)
+- [Practice Big Data Free Tutorials](https://github.com/labex-labs/bigdata-free-tutorials)
+- [Practice Cyber Security Free Tutorials](https://github.com/labex-labs/cysec-free-tutorials)
+- [Practice Machine Learning Free Tutorials](https://github.com/labex-labs/ml-free-tutorials)
+- [Practice Docker Free Tutorials](https://github.com/labex-labs/docker-free-tutorials)
+- [Practice Kubernetes Free Tutorials](https://github.com/labex-labs/kubernetes-free-tutorials)
+- [Practice Git Free Tutorials](https://github.com/labex-labs/git-free-tutorials)
+- [Practice Ansible Free Tutorials](https://github.com/labex-labs/ansible-free-tutorials)
+- [Practice Jenkins Free Tutorials](https://github.com/labex-labs/jenkins-free-tutorials)
+- [Practice Shell Free Tutorials](https://github.com/labex-labs/shell-free-tutorials)
+- [Practice Java Free Tutorials](https://github.com/labex-labs/java-free-tutorials)
+- [Practice Hadoop Free Tutorials](https://github.com/labex-labs/hadoop-free-tutorials)
+- [Practice C++ Free Tutorials](https://github.com/labex-labs/cpp-free-tutorials)
+- [Practice C Free Tutorials](https://github.com/labex-labs/c-free-tutorials)
+- [Practice MySQL Free Tutorials](https://github.com/labex-labs/mysql-free-tutorials)
+- [Practice Go Free Tutorials](https://github.com/labex-labs/go-free-tutorials)
+- [Practice Rust Free Tutorials](https://github.com/labex-labs/rust-free-tutorials)
+- [Practice OpenCV Free Tutorials](https://github.com/labex-labs/opencv-free-tutorials)
+- [Practice Django Free Tutorials](https://github.com/labex-labs/django-free-tutorials)
+- [Practice Pandas Free Tutorials](https://github.com/labex-labs/pandas-free-tutorials)
+- [Practice NumPy Free Tutorials](https://github.com/labex-labs/numpy-free-tutorials)
+- [Practice scikit-learn Free Tutorials](https://github.com/labex-labs/sklearn-free-tutorials)
+- [Practice Matplotlib Free Tutorials](https://github.com/labex-labs/matplotlib-free-tutorials)
+- [Practice Algorithm Free Tutorials](https://github.com/labex-labs/algorithm-free-tutorials)
+- [Practice HTML Free Tutorials](https://github.com/labex-labs/html-free-tutorials)
+- [Practice CSS Free Tutorials](https://github.com/labex-labs/css-free-tutorials)
+- [Practice JavaScript Free Tutorials](https://github.com/labex-labs/javascript-free-tutorials)
+- [Practice React Free Tutorials](https://github.com/labex-labs/react-free-tutorials)
+- [Practice jQuery Free Tutorials](https://github.com/labex-labs/jquery-free-tutorials)
 
 
 ## More
