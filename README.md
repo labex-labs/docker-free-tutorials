@@ -80,7 +80,6 @@ Docker is a tool that allows you to run applications in containers. Every contai
 |      70 | 📖 Simple Docker Containers                      | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/docker-simple-docker-containers-67162)                       |
 |      71 | 📖 Running Your First Container                  | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/docker-running-your-first-container-148982)                  |
 |      72 | 📖 Docker's .NET Conf                            | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/git-docker-s-net-conf-67462)                                 |
-|      73 | 📖 Deploying a Simple TensorFlow Model (Lab)     | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/linux-deploying-a-simple-tensorflow-model-lab-298840)        |
 
 ## More Free Tutorials
 
