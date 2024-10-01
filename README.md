@@ -4,7 +4,7 @@
 <img width="128px" src="https://file.labex.io/path/X5zPui0XRqNx.png">
 </div>
 
-Docker is a tool that allows you to run applications in containers. Every container has its own isolated environment, so it's easy to deploy and manage your applications. In this skill tree, you'll learn how to use Docker to build and run containers.
+Docker is revolutionizing application deployment and scaling. This Skill Tree presents a systematic approach to learning containerization with Docker. Perfect for DevOps beginners, it provides a clear roadmap to understand container creation, management, and orchestration. Hands-on, non-video courses and practical exercises in a Docker playground ensure you develop real-world skills in containerizing and deploying applications.
 
 |   Index | Name                                                                                                                                      | Difficulty   | Tutorial Link                                                                                    |
 |---------|-------------------------------------------------------------------------------------------------------------------------------------------|--------------|--------------------------------------------------------------------------------------------------|
@@ -51,15 +51,15 @@ Docker is a tool that allows you to run applications in containers. Every contai
 ## More Free Tutorials
 
 - [Practice Linux Free Tutorials](https://github.com/labex-labs/linux-free-tutorials)
-- [Practice Python Free Tutorials](https://github.com/labex-labs/python-free-tutorials)
 - [Practice DevOps Free Tutorials](https://github.com/labex-labs/devops-free-tutorials)
-- [Practice Web Development Free Tutorials](https://github.com/labex-labs/web-development-free-tutorials)
-- [Practice Data Science Free Tutorials](https://github.com/labex-labs/data-science-free-tutorials)
-- [Practice Big Data Free Tutorials](https://github.com/labex-labs/bigdata-free-tutorials)
 - [Practice Cyber Security Free Tutorials](https://github.com/labex-labs/cysec-free-tutorials)
-- [Practice Machine Learning Free Tutorials](https://github.com/labex-labs/ml-free-tutorials)
+- [Practice Python Free Tutorials](https://github.com/labex-labs/python-free-tutorials)
 - [Practice Docker Free Tutorials](https://github.com/labex-labs/docker-free-tutorials)
+- [Practice Data Science Free Tutorials](https://github.com/labex-labs/data-science-free-tutorials)
 - [Practice Kubernetes Free Tutorials](https://github.com/labex-labs/kubernetes-free-tutorials)
+- [Practice Big Data Free Tutorials](https://github.com/labex-labs/bigdata-free-tutorials)
+- [Practice Machine Learning Free Tutorials](https://github.com/labex-labs/ml-free-tutorials)
+- [Practice Web Development Free Tutorials](https://github.com/labex-labs/web-development-free-tutorials)
 - [Practice Git Free Tutorials](https://github.com/labex-labs/git-free-tutorials)
 - [Practice Ansible Free Tutorials](https://github.com/labex-labs/ansible-free-tutorials)
 - [Practice Jenkins Free Tutorials](https://github.com/labex-labs/jenkins-free-tutorials)
