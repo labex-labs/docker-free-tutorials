@@ -48,7 +48,7 @@ Docker is revolutionizing application deployment and scaling. This Skill Tree pr
 |      38 | [📖 Docker Manage Docker](https://labex.io/tutorials/docker-docker-manage-docker-271503)                                                   | ★☆☆          | [🔗 View](https://labex.io/tutorials/docker-docker-manage-docker-271503)                          |
 |      39 | [📖 Docker Remove Unused Docker Objects](https://labex.io/tutorials/docker-docker-remove-unused-docker-objects-271481)                     | ★☆☆          | [🔗 View](https://labex.io/tutorials/docker-docker-remove-unused-docker-objects-271481)           |
 |      40 | [📖 Creating a Simple Docker Container in C++](https://labex.io/tutorials/cpp-creating-a-simple-docker-container-in-c-298835)              | ★☆☆          | [🔗 View](https://labex.io/tutorials/cpp-creating-a-simple-docker-container-in-c-298835)          |
-|      41 | [📖 Deploying a Simple TensorFlow Model](https://labex.io/tutorials/linux-deploying-a-simple-tensorflow-model-298840)                      | ★☆☆          | [🔗 View](https://labex.io/tutorials/linux-deploying-a-simple-tensorflow-model-298840)            |
+|      41 | [📖 Deploying a Simple TensorFlow Model](https://labex.io/tutorials/docker-deploying-a-simple-tensorflow-model-298840)                     | ★☆☆          | [🔗 View](https://labex.io/tutorials/docker-deploying-a-simple-tensorflow-model-298840)           |
 
 ## More Free Tutorials
 
